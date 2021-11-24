@@ -2,6 +2,10 @@
 
 int main()
 {
-	printf("test file..\n");
+	
+
+
+	printf("hello a");
+	printf("shuge");
 	return 0;
 }
