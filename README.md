@@ -24,8 +24,8 @@
 
 **有序列表**
 1. 深入学习
-    1. 神经网络
-	1. 状态机
+	1. 神经网络
+		1. 状态机
 2. 图像处理
 3. 线程安全
 
@@ -43,3 +43,35 @@
 [2]:http://git.scm.com/downtoads "Git下载入口"
 
 ![google.png](https://i.loli.net/2021/11/25/GOprUZajlLIoS31.png)
+
+```cpp
+#include<iostream>
+using namespace std;
+int main()
+{
+    cout<<"niuniuniu"<<endl;
+    return 0;
+}
+```
+```c
+#include<stdio.h>
+#include<algorithm>
+int main()
+{
+    printf("niuniuniu");
+    return 0;
+}
+```
+
+```java
+java代码
+```
+
+```python
+我不会写python
+```
+```bash
+sudo apt-get install git
+```
+
+
